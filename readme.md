@@ -1,0 +1,16 @@
+- init git repo
+- project setup: game mode, player controller, player pawn
+- mf setup: player pawn as edges & sides & dots
+- mf setup: rotating around
+- gm: detect state changes [progress, regress, reset]
+- gm: states: win condition
+- gm: initial distribution options (difficulties)
+- main menu
+- input config: kb & gamepad
+- vfx:
+-- shift
+-- initial appearance
+-- side preview
+-- background
+-- cube view
+- test build
